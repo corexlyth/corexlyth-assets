@@ -2,12 +2,18 @@
 
 Bu dosya, CoreXLyth sitesinde kullanılan görsellerin kaynağını ve üretim yöntemini kayıt altında tutmak amacıyla oluşturulmuştur.
 
-Burada listelenen görseller, aksi ayrıca belirtilmedikçe CoreXLyth içerikleri için yapay zekâ araçları kullanılarak özel olarak üretilmiş veya hazırlanmıştır.
+Burada listelenen görseller; aksi ayrıca belirtilmedikçe CoreXLyth içerikleri için yapay zekâ araçları kullanılarak özel olarak üretilmiş, CoreXLyth tarafından hazırlanmış veya ilgili rehberin hazırlanması sırasında doğrudan ekran görüntüsü olarak kaydedilmiştir.
 
 Bu dosya bir telif hakkı tescili veya özel bir lisans belgesi değildir.  
 Amacı, CoreXLyth üzerinde kullanılan görsellerin nereden geldiğini ve nasıl oluşturulduğunu açık biçimde belirtmektir.
 
 Üçüncü taraf bir görsel, fotoğraf, ikon veya başka bir kaynak kullanılması durumunda ilgili kaynak ve varsa lisans bilgileri ayrıca bu dosyada belirtilecektir.
+
+### Ekran görüntüleri hakkında
+
+Uygulama ve web sitesi ekran görüntüleri, ilgili CoreXLyth rehberlerini açıklamak amacıyla doğrudan kullanım sırasında alınmıştır.
+
+Bu ekran görüntülerinde görünen uygulama adları, logolar, arayüzler, marka adları ve diğer üçüncü taraf unsurlar ilgili hak sahiplerine aittir. Ekran görüntülerinin bu depoda bulunması, CoreXLyth'in söz konusu uygulama, marka veya arayüzlerin hak sahibi olduğu anlamına gelmez.
 
 ---
 
@@ -27,6 +33,87 @@ Amacı, CoreXLyth üzerinde kullanılan görsellerin nereden geldiğini ve nası
 | `images/wifi/gorsel6.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
 | `images/wifi/gorsel7.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
 | `images/wifi/gorsel8.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+
+---
+
+## MOBİL ŞEBEKE / 4G & 5G
+
+**İçerik:**  
+*Telefon İnternete Nasıl Bağlanıyor? 4G ve 5G’nin Arkasındaki Görünmez Ağ*
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `sebeke/kapak_sebeke.png` | CoreXLyth için AI destekli olarak özel üretilmiştir. |
+| `sebeke/sebeke_gorsel1.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+| `sebeke/sebeke_gorsel2.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+| `sebeke/sebeke_gorsel3.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+| `sebeke/sebeke_gorsel4.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+| `sebeke/sebeke_gorsel5.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+| `sebeke/sebeke_gorsel6.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+| `sebeke/sebeke_gorsel7.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+| `sebeke/sebeke_gorsel8.png` | CoreXLyth için AI destekli olarak özel hazırlanmıştır. |
+
+---
+
+## MORPHE YOUTUBE / MICROG RE REHBERİ
+
+**İçerik:**  
+*Android'de Reklamsız YouTube ve YouTube Music: Morphe + MicroG RE Kurulum Rehberi*
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `morphe/kapak_morphe_youtube.png` | CoreXLyth için AI destekli olarak özel üretilmiştir. |
+| `morphe/morphe_gorsel1.jpg` | Rehber hazırlanırken vanced.to üzerinde doğrudan alınmış ekran görüntüsüdür. |
+| `morphe/morphe_gorsel2.jpg` | Rehber hazırlanırken vanced.to üzerindeki ReVanced Manager Plus bölümünden doğrudan alınmış ekran görüntüsüdür. |
+| `morphe/morphe_gorsel3.jpg` | ReVanced Manager Plus uygulamasından, CoreXLyth rehberi hazırlanırken Android cihazda alınmış ekran görüntüsüdür. |
+| `morphe/morphe_gorsel4.jpg` | Rehber hazırlanırken Morphe YouTube / YouTube Music indirme alanını göstermek amacıyla alınmış ekran görüntüsüdür. |
+| `morphe/morphe_gorsel5.jpg` | Rehber hazırlanırken MicroG RE indirme / bilgi alanını göstermek amacıyla alınmış ekran görüntüsüdür. |
+| `morphe/morphe_gorsel6.jpg` | MicroG RE uygulamasındaki “Hesaplar” bölümünü göstermek amacıyla CoreXLyth rehberi hazırlanırken Android cihazda alınmış ekran görüntüsüdür. |
+
+---
+
+## YOUTUBE ALTERNATİFLERİ
+
+**İçerik:**  
+*YouTube'dan Sıkıldıysan: Android İçin 4 Güçlü Alternatif*
+
+Bu bölümdeki uygulama ekran görüntüleri, yazı hazırlanırken uygulamalar Android cihaz üzerinde denenerek doğrudan alınmıştır.
+
+### NewPipe
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `yuutub/pipegorsel1.jpg` | CoreXLyth rehberi hazırlanırken NewPipe ile ilgili doğrudan alınmış ekran görüntüsüdür. |
+| `yuutub/pipegorsel2.jpg` | CoreXLyth rehberi hazırlanırken NewPipe uygulamasından doğrudan alınmış ekran görüntüsüdür. |
+| `yuutub/pipegorsel3.jpg` | CoreXLyth rehberi hazırlanırken NewPipe uygulamasından doğrudan alınmış ekran görüntüsüdür. |
+
+### PipePipe
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `yuutub/pipe1.jpg` | CoreXLyth rehberi hazırlanırken PipePipe ile ilgili doğrudan alınmış ekran görüntüsüdür. |
+| `yuutub/pipe2.jpg` | CoreXLyth rehberi hazırlanırken PipePipe uygulamasından doğrudan alınmış ekran görüntüsüdür. |
+
+### LibreTube
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `yuutub/libre1.jpg` | CoreXLyth rehberi hazırlanırken LibreTube ile ilgili doğrudan alınmış ekran görüntüsüdür. |
+| `yuutub/libre2.jpg` | CoreXLyth rehberi hazırlanırken LibreTube uygulamasından doğrudan alınmış ekran görüntüsüdür. |
+
+### Metrolist
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `yuutub/metrolist1.jpg` | CoreXLyth rehberi hazırlanırken Metrolist ile ilgili doğrudan alınmış ekran görüntüsüdür. |
+| `yuutub/metrolist2.jpg` | CoreXLyth rehberi hazırlanırken Metrolist uygulamasından doğrudan alınmış ekran görüntüsüdür. |
+| `yuutub/metrolist3.jpg` | CoreXLyth rehberi hazırlanırken Metrolist uygulamasından doğrudan alınmış ekran görüntüsüdür. |
+
+### Kapak
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `yuutub/kapak_youtube_alternatifleri.png` | CoreXLyth “Android için YouTube alternatifleri” içeriği için AI destekli olarak özel üretilmiştir. |
 
 ---
 
