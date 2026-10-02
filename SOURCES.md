@@ -136,6 +136,50 @@ Bu bölümdeki uygulama ve GitHub ekran görüntüleri, rehber hazırlanırken A
 | `obtainium/obtainium_gorsel8.jpg` | Obtainium v1.6.17 resmi GitHub Releases “Assets” listesindeki universal ve x86_64 paketleri göstermek amacıyla alınmış ekran görüntüsüdür. |
 | `obtainium/obtainium_gorsel9.jpg` | Obtainium v1.6.17 resmi GitHub Releases “Assets” listesindeki x86_64 APK ve doğrulama dosyalarını göstermek amacıyla alınmış ekran görüntüsüdür. |
 
+## LOCALSEND
+
+**İçerik:**  
+*WhatsApp'a Atmadan Dosya Gönder: LocalSend ile İnternetsiz Dosya Paylaşımı*
+
+Bu içerikte kullanılan LocalSend arayüz görselleri, LocalSend'in resmi proje materyallerinden alınmıştır. Görseller CoreXLyth deposuna kopyalanmamış; yazı içinde resmi LocalSend kaynağından çağrılmaktadır.
+
+**Kaynak proje:** `localsend/website`  
+**Lisans:** Apache License 2.0
+
+| Görsel / Kaynak | Kaynak / Üretim |
+| --- | --- |
+| `https://localsend.org/img/hero-desktop.webp` | LocalSend resmi web sitesi/proje materyalidir; yazıda kapak görseli olarak kullanılmıştır. |
+| `https://localsend.org/img/screenshot-phone-1.webp` | LocalSend resmi mobil arayüz ekran görüntüsüdür. |
+| `https://localsend.org/img/screenshot-phone-2.webp` | LocalSend resmi mobil arayüz ekran görüntüsüdür. |
+| `https://localsend.org/img/screenshot-phone-3.webp` | LocalSend resmi mobil arayüz ekran görüntüsüdür. |
+| `https://localsend.org/img/screenshot-pc.webp` | LocalSend resmi masaüstü arayüz ekran görüntüsüdür. |
+| `https://localsend.org/img/screenshot-iphone.webp` | LocalSend resmi iPhone arayüz ekran görüntüsüdür. |
+
+---
+
+## SHIZUKU + CANTA
+
+**İçerik:**  
+*Root Olmadan Sistem Uygulamalarını Kaldır: Shizuku + Canta Rehberi*
+
+Bu bölümdeki ekran görüntüleri, rehber hazırlanırken Android cihaz üzerinde Shizuku ve Canta kullanılarak doğrudan alınmıştır. Kapak görseli CoreXLyth için AI destekli olarak özel üretilmiştir.
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `shizuku-canta/kapak_shizuku_canta.png` | CoreXLyth Shizuku + Canta rehberi için AI destekli olarak özel üretilmiştir. |
+| `shizuku-canta/shizuku_canta_gorsel1.jpg` | Shizuku ilk açılışında “Shizuku çalışmıyor” durumunu göstermek amacıyla Android cihazda alınmış ekran görüntüsüdür. |
+| `shizuku-canta/shizuku_canta_gorsel2.jpg` | Android Geliştirici seçeneklerindeki Kablosuz hata ayıklama ekranının kapalı durumunu göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel3.jpg` | Kablosuz hata ayıklama üzerinden eşleme kodu ile cihaz eşleştirme ekranını göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel4.jpg` | Shizuku eşleştirmesi için gereken bildirim izni uyarısını göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel5.jpg` | Shizuku'nun kablosuz eşleştirme adım adım kılavuz ekranını göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel6.jpg` | Android Kablosuz hata ayıklama ekranında Shizuku'nun eşlenen cihaz olarak görünmesini göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel7.jpg` | Xiaomi/POCO cihazda ADB izin kısıtlamasına ilişkin Shizuku uyarısını göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel8.jpg` | Gerekli Xiaomi/POCO güvenlik ayarı sonrasında Shizuku servisinin çalışır durumunu göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel9.jpg` | Canta ana ekranındaki sistem ve kullanıcı uygulaması listesini göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel10.jpg` | Canta içindeki örnek uygulama detay/paket bilgisi penceresini göstermek amacıyla alınmıştır. |
+| `shizuku-canta/shizuku_canta_gorsel11.jpg` | Canta'nın Shizuku erişim izni gereksinimini gösteren ekran görüntüsüdür. |
+| `shizuku-canta/shizuku_canta_gorsel12.jpg` | Canta uygulama kaldırma onay ekranını göstermek amacıyla alınmıştır; rehber hazırlanırken kaldırma işlemi onaylanmamıştır. |
+
 ---
 ## SABİT SAYFALAR
 
