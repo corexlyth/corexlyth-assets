@@ -181,6 +181,26 @@ Bu bölümdeki ekran görüntüleri, rehber hazırlanırken Android cihaz üzeri
 | `shizuku-canta/shizuku_canta_gorsel12.jpg` | Canta uygulama kaldırma onay ekranını göstermek amacıyla alınmıştır; rehber hazırlanırken kaldırma işlemi onaylanmamıştır. |
 
 ---
+## APP MANAGER
+
+**İçerik:**  
+*Android Uygulamalarının İçini Gör: App Manager ile Detaylı Uygulama Analizi*
+
+Bu bölümdeki ekran görüntüleri, rehber hazırlanırken App Manager v4.1.1 kullanılarak Android cihaz üzerinde doğrudan alınmıştır. Kapak görseli CoreXLyth için AI destekli olarak özel üretilmiştir.
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `appmanager/kapak_appmanager.png` | CoreXLyth App Manager rehberi için AI destekli olarak özel üretilmiştir. |
+| `appmanager/appmanager_gorsel1.jpg` | App Manager ana uygulama listesini ve uygulamalara ait sürüm, paket, SDK ve sistem/kullanıcı bilgilerini göstermek amacıyla Android cihazda alınmış ekran görüntüsüdür. |
+| `appmanager/appmanager_gorsel2.jpg` | App Manager'ın kullanım erişimi izni talebini göstermek amacıyla rehber hazırlanırken alınmış ekran görüntüsüdür. |
+| `appmanager/appmanager_gorsel3.jpg` | Örnek olarak seçilen “Akıllı uygulama asistanı” paketinin App Manager detay ekranını, paket kimliği, sistem durumu, izleyici bilgisi, SDK ve dizin verileriyle birlikte göstermek amacıyla alınmıştır. |
+| `appmanager/appmanager_gorsel4.jpg` | Bir sistem uygulaması için App Manager tarafından gösterilen kaldırma/güncelleme seçeneklerini ve onay penceresini göstermek amacıyla alınmıştır; rehber hazırlanırken kaldırma işlemi onaylanmamıştır. |
+
+**Uygulama kaynağı:** `MuntashirAkon/AppManager`  
+**Test edilen sürüm:** v4.1.1  
+**Lisans:** GNU GPL v3 veya sonrası
+
+---
 ## SABİT SAYFALAR
 
 ### Kaynaklar & Üretim Notları
