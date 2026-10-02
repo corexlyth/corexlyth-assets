@@ -116,7 +116,27 @@ Bu bölümdeki uygulama ekran görüntüleri, yazı hazırlanırken uygulamalar 
 | `yuutub/kapak_youtube_alternatifleri.png` | CoreXLyth “Android için YouTube alternatifleri” içeriği için AI destekli olarak özel üretilmiştir. |
 
 ---
+## OBTAINIUM
 
+**İçerik:**  
+*Play Store Dışındaki Uygulamaları Nasıl Güncel Tutarsın? Obtainium Rehberi*
+
+Bu bölümdeki uygulama ve GitHub ekran görüntüleri, rehber hazırlanırken Android cihaz üzerinde doğrudan alınmıştır. Kapak görseli ise CoreXLyth için AI destekli olarak özel üretilmiştir.
+
+| Dosya | Kaynak / Üretim |
+| --- | --- |
+| `obtainium/kapak_obtainium.png` | CoreXLyth Obtainium rehberi için AI destekli olarak özel üretilmiştir. |
+| `obtainium/obtainium_gorsel1.jpg` | Obtainium uygulamasının ana “Uygulamalar” ekranından, rehber hazırlanırken Android cihazda alınmış ekran görüntüsüdür. |
+| `obtainium/obtainium_gorsel2.jpg` | Obtainium içindeki “Güncellemeler” ayar ekranından, arka plan kontrol ve yükleme seçeneklerini göstermek amacıyla alınmış ekran görüntüsüdür. |
+| `obtainium/obtainium_gorsel3.jpg` | Obtainium “Uygulama ekle” ekranında NewPipe’ın resmi GitHub kaynak adresini göstermek amacıyla alınmış ekran görüntüsüdür. |
+| `obtainium/obtainium_gorsel4.jpg` | NewPipe’ın Obtainium tarafından algılanan sürüm ve kaynak bilgilerini göstermek amacıyla alınmış ekran görüntüsüdür. |
+| `obtainium/obtainium_gorsel5.jpg` | Obtainium ana listesinde NewPipe ve Obtainium’un birlikte takip edildiğini göstermek amacıyla alınmış ekran görüntüsüdür. |
+| `obtainium/obtainium_gorsel6.jpg` | NewPipe kurulduktan sonra Obtainium detay ekranındaki yüklü / en son sürüm ve sertifika bilgilerini göstermek amacıyla alınmış ekran görüntüsüdür. |
+| `obtainium/obtainium_gorsel7.jpg` | Obtainium v1.6.17 resmi GitHub Releases “Assets” listesinin ARM64 ve ARMv7 dosyalarını gösteren bölümünden alınmış ekran görüntüsüdür. |
+| `obtainium/obtainium_gorsel8.jpg` | Obtainium v1.6.17 resmi GitHub Releases “Assets” listesindeki universal ve x86_64 paketleri göstermek amacıyla alınmış ekran görüntüsüdür. |
+| `obtainium/obtainium_gorsel9.jpg` | Obtainium v1.6.17 resmi GitHub Releases “Assets” listesindeki x86_64 APK ve doğrulama dosyalarını göstermek amacıyla alınmış ekran görüntüsüdür. |
+
+---
 ## SABİT SAYFALAR
 
 ### Kaynaklar & Üretim Notları
@@ -153,4 +173,4 @@ https://corexlyth.github.io/corexlyth-assets/images/wifi/gorsel1.png
 
 Yeni görseller eklendikçe bu dosya güncellenecektir.
 
-**Son güncelleme:** 01.10.2026
+**Son güncelleme:** 02.10.2026
